@@ -1,5 +1,5 @@
 # code-repo
-Contains the steady and unsteady cases Discrete Vortex Method(DVM) code for various airfoils.
+Contains the steady and unsteady cases Discrete Vortex Method(DVM) code for cambered and flat airfoil.
 
 I had developed these codes for simulating the steady and unsteady flow conditions for single as well as multi-panel modelling of an airfoil on MATLAB. These codes were develped as a part of my summer fellowship.
 Codes for specific cases present:-
