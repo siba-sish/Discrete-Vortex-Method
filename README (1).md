@@ -16,7 +16,7 @@ These codes were develped as a part of my JNCASR summer fellowship.
 Codes for specific cases present:- 
  - Steady flow over cambered airfoil.
  - Steady flow over single-panel flat airfoil.
- - Steady single-panel flat airfoil at an angle of attack.
- - Steady multi-panel flat airfoil at an angle of attack.
+ - Transient single-panel flat airfoil at an angle of attack.
+ - Transient multi-panel flat airfoil at an angle of attack.
  - Transient multi-panel heaving flat airfoil at an angle of attack.
 
